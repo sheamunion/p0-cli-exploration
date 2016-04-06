@@ -1,3 +1,3 @@
-# p0-cli-exploration
+### Shell Command Line Exploration
 
-Please see the instructions in [https://devbootcamp.instructure.com](https://devbootcamp.instructure.com).
+A series of exercises that helped me become familiar with the shell. I also recommend [The Command Line Crash Course](http://cli.learncodethehardway.org/book/) by Zed A. Shaw.
